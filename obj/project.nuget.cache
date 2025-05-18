@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0LD/HpAD2+k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\GeometryCalculator\\GeometryCalculator\\GeometryCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
